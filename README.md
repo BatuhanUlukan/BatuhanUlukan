@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I am a Full Stack Developer with almost two years of experience advanced in C#,Web, SEO.  I have experience developing and deploying websites using .Net / Ef.<br>🤝 I have hands-on experience using front-end technologies and frameworks like Asp.Net, JavaScript, HTML, CSS, and Bootstrap.  <br>🌱 I have skills of front and backend development.I am eager to learn, have strong interpersonal skills, and have the ability to handle pressure and meet deadlines.<br>⚡ I am skilled in using these frameworks to develop web applications based on Multiple Page Applications (MPA) architectures.
+🔭I am a Full Stack Developer with almost three years of experience advanced in C#,Web, SEO.  I have experience developing and deploying websites using .Net / Ef.<br>🤝 I have hands-on experience using front-end technologies and frameworks like Asp.Net, JavaScript, HTML, CSS, and Bootstrap.  <br>🌱 I have skills of front and backend development.I am eager to learn, have strong interpersonal skills, and have the ability to handle pressure and meet deadlines.<br>⚡ I am skilled in using these frameworks to develop web applications based on Multiple Page Applications (MPA) architectures.
 
 
 ## 🌐 Socials:
